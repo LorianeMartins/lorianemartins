@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 👋 My name is Loriane, but you can call me Lori!
 - 🌱 I’m currently a front-end developer on the Dev team at Ssys Sistemas
