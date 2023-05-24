@@ -20,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height=20px/>
 </div>
 
+## Quick stats 🚀
+<div style="display-flex"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorianemartins&theme=radical&show_icons=true" height=160em> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorianemartins&layout=compact&theme=radical" height=160em>
+</div>
+
 ## Find me at 📬
 
 <a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
