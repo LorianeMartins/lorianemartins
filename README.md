@@ -21,10 +21,6 @@
 </div>
 
 ## Quick stats 🚀
-<div style="display-flex"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lorianemartins&theme=radical&show_icons=true" height=160em> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorianemartins&layout=compact&theme=radical" height=160em>
-</div>
 
 ## Find me at 📬
 
