@@ -1,9 +1,9 @@
 # Hi there 👋
 
 - 👋 My name is Loriane, but you can call me Lori!
-- 🌱 I’m currently a front-end developer on the Dev team at Ssys Sistemas
+- 🌱 I’m currently a front-end developer at Ssys Sistemas
 - 😄 Pronouns: she/her/hers
-- 📫 How to reach me: lorianemartins@hotmail.com | loriane.martins@ssys.com.br
+- 📫 Contact me at: lorianemartins@hotmail.com
 
 <div style="inline-block"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=20px/> 
@@ -20,16 +20,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height=20px/>
 </div>
 
+## Find me at 📬
+
+<a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 ## Quick stats 🚀
 <div style="display-flex"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorianemartins&theme=radical&show_icons=true" height=160em> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorianemartins&layout=compact&theme=radical" height=160em>
 </div>
-
-## Find me at 📬
-
-<a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 ![Snake animation](https://github.com/LorianeMartins/LorianeMartins/blob/output/github-contribution-grid-snake.svg)
 
