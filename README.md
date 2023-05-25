@@ -5,10 +5,15 @@
 
 ## Find me at 📬
 
-<a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lorianemartins@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email%20-%20lorianemartins@hotmail.com%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-</a>
+  <img src="https://img.shields.io/badge/Email%20-%20lorianemartins@hotmail.com%20%2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a> -->
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lorianemartins-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:lorianemartins@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorianemartins@hotmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -35,9 +40,9 @@ const lori = {
 
 <div style="display: flex;"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LorianeMartins&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorianeMartins&layout=donut&theme=tokyonight"" height=195em>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorianeMartins&layout=donut&theme=tokyonight" height=195em>
 </div>
-
+                                                                                                                         
 ![Snake animation](https://github.com/LorianeMartins/LorianeMartins/blob/output/github-contribution-grid-snake.svg)
 
 
