@@ -5,14 +5,9 @@
 
 ## Find me at 📬
 
-<!-- <a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lorianemartins@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email%20-%20lorianemartins@hotmail.com%20%2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-</a> -->
-
 <p align="center">
-<a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lorianemartins-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:lorianemartins@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorianemartins@hotmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lorianemartins-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:lorianemartins@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorianemartins@hotmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
