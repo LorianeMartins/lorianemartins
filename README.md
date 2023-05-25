@@ -36,9 +36,9 @@ const lori = {
 <div align="center" style="display: flex;"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LorianeMartins&theme=tokyonight&card_width=525">
 </div>
-<div align="center" style="display: flex;">   
+<!-- <div align="center" style="display: flex;">   
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorianeMartins&theme=tokyonight&card_width=600" height=250em>
-</div>
+</div> -->
                                                                                                                          
 ![Snake animation](https://github.com/LorianeMartins/LorianeMartins/blob/output/github-contribution-grid-snake.svg)
 
