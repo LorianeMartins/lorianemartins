@@ -3,29 +3,11 @@
 <p><em>👋 My name is Loriane, but you can call me Lori!</em></p>
 <p><em>🌱 I’m currently a front-end developer at Ssys Sistemas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-
-
-<!-- - 😄 Pronouns: she/her/hers
-- 📫 Contact me at: lorianemartins@hotmail.com -->
-
-<!-- <div style="inline-block"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=20px/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height=20px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=20px/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=20px/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=20px/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=20px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=20px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height=20px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height=20px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=20px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height=20px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height=20px/>
-</div> -->
-
 ## Find me at 📬
 
 <a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="lorianemartins@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -48,9 +30,10 @@ const lori = {
 ---
 
 ## Quick stats 🚀
-<div style="display-flex"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorianemartins&theme=radical&show_icons=true" height=160em> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorianemartins&layout=compact&theme=radical" height=160em>
+
+<div style="display: flex;"> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=LorianeMartins&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorianeMartins&layout=donut&theme=tokyonight"" height=195em>
 </div>
 
 ![Snake animation](https://github.com/LorianeMartins/LorianeMartins/blob/output/github-contribution-grid-snake.svg)
