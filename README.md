@@ -5,7 +5,7 @@
 
 
 <a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lorianemartins-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:lorianemartins@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorianemartins@hotmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:lorianemartins53@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorianemartins53@gmail.com-blue?style=flat&logo=gmail"></a>
 
 
 
@@ -14,18 +14,18 @@
 ```javascript
 const lori = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, SASS, Javascript, Python],
-  tools: [Vue, Node, Django, Styled-Components, Docker, MySQL, WordPress ], 
+  code: ["HTML", "CSS", "SASS", "Javascript", "Python"],
+  tools: ["Vue", "Node", "Django", "Styled-Components", "Docker", "MySQL", "WordPress"], 
   otherSkills: {
-                        organization: Notion,
-                        design: Figma,
-                        agile: Scrum,
-                      },
- study: "I am doing the #CodeBoost focused on React"
+    organization: "Notion",
+    design: "Figma",
+    agile: "Scrum",
+  },
+  study: "I am doing the #CodeBoost focused on React"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you better!</b> :)</em>
 
 ---
 
@@ -34,9 +34,6 @@ const lori = {
 <div align="center" style="display: flex;"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LorianeMartins&theme=tokyonight&card_width=525">
 </div>
-<!-- <div align="center" style="display: flex;">   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorianeMartins&theme=tokyonight&card_width=600" height=250em>
-</div> -->
                                                                                                                          
 ![Snake animation](https://github.com/LorianeMartins/LorianeMartins/blob/output/github-contribution-grid-snake.svg)
 
