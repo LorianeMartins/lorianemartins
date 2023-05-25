@@ -3,12 +3,10 @@
 <p><em>👋 My name is Loriane, but you can call me Lori!</em></p>
 <p><em>🌱 I’m currently a front-end developer at Ssys Sistemas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-## Find me at 📬
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lorianemartins-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:lorianemartins@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorianemartins@hotmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+<a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lorianemartins-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:lorianemartins@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lorianemartins@hotmail.com-blue?style=flat&logo=gmail"></a>
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
