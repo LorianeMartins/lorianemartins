@@ -6,7 +6,9 @@
 ## Find me at 📬
 
 <a href="https://www.linkedin.com/in/lorianemartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="mailto:lorianemartins@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email%20-%20lorianemartins@hotmail.com%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
