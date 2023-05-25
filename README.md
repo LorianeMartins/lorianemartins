@@ -13,7 +13,7 @@
 
 ```javascript
 const lori = {
-  pronouns: "she" | "her",
+  pronouns: ["she", "her"],
   code: ["HTML", "CSS", "SASS", "Javascript", "Python"],
   tools: ["Vue", "Node", "Django", "Styled-Components", "Docker", "MySQL", "WordPress"], 
   otherSkills: {
